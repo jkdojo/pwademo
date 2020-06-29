@@ -7,6 +7,8 @@ PWAs i.e. Progressive Web Apps are web applications that load like regular web p
 ## Why should I care?
 Two reasons: 
 
-(1) Internet connections are flaky. They break-off when you least expect it and as a result are unreliable
+(1) Internet connections are flaky: they break-off when you least expect it and as a result are unreliable
 
 (2) PWAs leverage the open standards of the web offered by modern browsers to provide benefits of a rich mobile experience
+
+(3) Much cheaper to develop, deploy and maintain
